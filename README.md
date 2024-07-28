@@ -8,14 +8,15 @@ Machine Learning
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Image Classification with Machine Learning
+
 This repository provides a comprehensive framework for developing and implementing image classification models using machine learning techniques. It includes code, datasets, and documentation to help you understand and apply various methods for classifying images.
-Features
-Data Preprocessing: Functions for loading, resizing, normalizing, and augmenting image data.
-Model Architectures: Implementation of popular architectures such as Convolutional Neural Networks (CNNs), ResNet, and more.
-Training Pipeline: Scripts to train models with customizable parameters and options for monitoring performance.
-Evaluation Metrics: Tools to assess model accuracy, precision, recall, and F1 score.
-Visualization: Capabilities to visualize training progress and model predictions on sample images.
-Example Datasets: Access to sample datasets for testing and demonstration purposes.
+Features:
+-Data Preprocessing: Functions for loading, resizing, normalizing, and augmenting image data.
+-Model Architectures: Implementation of popular architectures such as Convolutional Neural Networks (CNNs), ResNet, and more.
+-Training Pipeline: Scripts to train models with customizable parameters and options for monitoring performance.
+-Evaluation Metrics: Tools to assess model accuracy, precision, recall, and F1 score.
+-Visualization: Capabilities to visualize training progress and model predictions on sample images.
+-Example Datasets: Access to sample datasets for testing and demonstration purposes.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
